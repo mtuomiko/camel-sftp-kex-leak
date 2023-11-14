@@ -6,7 +6,7 @@ import org.testcontainers.utility.DockerImageName;
 
 import java.util.Properties;
 
-class MyApplicationTest extends SftpContainerBaseTest {
+class SftpRouteTest extends SftpContainerBaseTest {
 
     @Override
     protected Class<?> getMainClass() {
